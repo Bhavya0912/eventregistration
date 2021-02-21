@@ -26,7 +26,7 @@ Preview the prototype.
 
 ![output](./static/img/b4.jpg)
 
-![output](./static/img/b5.jpg)
+![output](./static/img/b6.jpg)
 
 
 
